@@ -40,19 +40,19 @@ As previously mentioned, this program aims to simulate the logic of a cinema roo
       - You can exit the cinema room manager.
 
 ## Usage Examples
-- Init phase:
+- Init phase: \
 ![Input: Dimensions(rows, seats) of the room][usage1]
 
-- Show the seats:
+- Show the seats: \
 ![Layout of the cinema room][usage2]
 
-- Buy a ticket:
+- Buy a ticket: \
 ![Input: Wanted row and seat number][usage3]
 
-- Buy a ticket:
+- Buy a ticket (Already sold seat, Wrong input): \
 ![Wrong input: Invalid seat position][usage4]
 
-- Statistics:
+- Statistics: \
 ![Purchased tickets, Percentage, Income][usage5]
   
 ## Troubleshooting
