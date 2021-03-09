@@ -1,7 +1,7 @@
 # cinema-room-manager
 
 The cinema-room project aims to provide a program which simulates the basic operation logic of a cinema room manager system. 
-This project was made for personal practice and fun.
+This project is an implementation of the Cinema Room Manager project from the [Jetbrains Academy](https://www.jetbrains.com/academy/) (I attend their Java course). This project was made for personal practice and fun.
 
 ## Table of Contents
 - [Installing, Compiling and Running](#installing-compiling-and-running)
