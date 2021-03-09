@@ -6,7 +6,7 @@ This project was made for personal practice and fun.
 ## Table of Contents
 - [Installing, Compiling and Running](#installing-compiling-and-running)
 - [Manual](#manual)
-- [Usage](#usage)
+- [Usage Examples](#usage-examples)
 - [Troubleshooting](#troubleshooting)
 - [License](#license)
 
@@ -39,8 +39,21 @@ As previously mentioned, this program aims to simulate the logic of a cinema roo
     - **Exit** - `0`
       - You can exit the cinema room manager.
 
-## Usage
-- Under construction
+## Usage Examples
+- Init phase:
+![Input: Dimensions(rows, seats) of the room][usage1]
+
+- Show the seats:
+![Layout of the cinema room][usage2]
+
+- Buy a ticket:
+![Input: Wanted row and seat number][usage3]
+
+- Buy a ticket:
+![Wrong input: Invalid seat position][usage4]
+
+- Statistics:
+![Purchased tickets, Percentage, Income][usage5]
   
 ## Troubleshooting
 
@@ -50,3 +63,9 @@ As previously mentioned, this program aims to simulate the logic of a cinema roo
 ## License
 The program and associated documentation in this repo are released under the [MIT License](https://en.wikipedia.org/wiki/MIT_License).<br/>
 When you contribute to this repository you are doing so under the above license.
+
+[usage1]: https://github.com/D4NK3/cinema-room-manager/blob/main/img/initPhase.png
+[usage2]: https://github.com/D4NK3/cinema-room-manager/blob/main/img/showTheSeats.png
+[usage3]: https://github.com/D4NK3/cinema-room-manager/blob/main/img/buyTicket.png
+[usage4]: https://github.com/D4NK3/cinema-room-manager/blob/main/img/buyTicketInvalid.png
+[usage5]: https://github.com/D4NK3/cinema-room-manager/blob/main/img/statistics.png
